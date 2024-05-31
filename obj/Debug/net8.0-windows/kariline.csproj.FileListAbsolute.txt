@@ -29,3 +29,4 @@ D:\code\kariline\kariline\obj\Debug\net8.0-windows\refint\kariline.dll
 D:\code\kariline\kariline\obj\Debug\net8.0-windows\kariline.pdb
 D:\code\kariline\kariline\obj\Debug\net8.0-windows\kariline.genruntimeconfig.cache
 D:\code\kariline\kariline\obj\Debug\net8.0-windows\ref\kariline.dll
+D:\code\kariline\kariline\obj\Debug\net8.0-windows\kariline.sourcelink.json

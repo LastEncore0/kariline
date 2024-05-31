@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kariline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bd80801b575f02b08f9b857e0b9a0197034b8f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("kariline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kariline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
